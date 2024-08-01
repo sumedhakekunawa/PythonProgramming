@@ -10,6 +10,6 @@ class Test:
 
 
 t = Test()
-t.method1(12)
+t.method1(10)
 t.method2()
 t.display()
