@@ -8,6 +8,7 @@ class Test:
     def display(self):
         print(self.x)
 
+
 t = Test()
 t.method1(10)
 t.method2()
